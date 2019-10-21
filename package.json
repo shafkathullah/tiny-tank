@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "keywords": [],
-  "author": "",
+  "keywords": ["react","react-hooks"],
+  "author": "Shafkathullah Ihsan",
   "license": "ISC",
   "scripts": {
     "clean": "rm dist/bundle.js",
