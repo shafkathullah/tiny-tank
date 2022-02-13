@@ -14,10 +14,12 @@ const StyledControls = styled.div`
     padding: 15px;
     outline: none;
     transition: all 0.1s ease-in;
+    cursor:pointer;
     &:active,
     &.pressed {
       transform: translateY(5px);
       box-shadow: 0px 0px 0px #469207;
+      background: #459403;
     }
     &:nth-child(even) {
       margin: 0 10px;
